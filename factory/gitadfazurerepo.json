@@ -1,0 +1,9 @@
+{
+	"name": "gitadfazurerepo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0314f950-1e6c-4dea-bb2f-fe10a17a87fb",
+		"tenantId": "18c3b4f7-e526-4f98-939a-19118361cac0"
+	}
+}
