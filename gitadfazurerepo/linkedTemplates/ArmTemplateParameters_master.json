@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "gitadfazurerepo"
 		},
+		"ls_gitrepoes_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
