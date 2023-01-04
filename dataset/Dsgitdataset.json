@@ -1,0 +1,20 @@
+{
+	"name": "Dsgitdataset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_gitrepoes",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
